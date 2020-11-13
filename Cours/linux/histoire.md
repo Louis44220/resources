@@ -1,8 +1,8 @@
 # L'histoire de Linux
 
-- **1965** : MULTICS
+- **1965** : MULTICS Premier système d'exploitation influent à temps partagé basé sur le concept d'une mémoire à un seul niveau
 - **1969** : AT&T, Bell laboratories - Ken Thompson et Dennis Ritchie créent la première version de Unix
-- **1970** : UNIX
+- **1970** : UNIX est une famille de systèmes d'exploitation multitâche et multi-utilisateur dérivé du Unix d'origine créé par AT&T.
 - **1974** : La 4ème version de Unix est donnée à **Berkeley** une université californienne. 2 versions de Unix existent, l'AT&T et la BSD (Berkeley SOftware DIstribution)
 - **1979** : AT&T vend les premières licences Unix
 - **1984** : Projet GNU
